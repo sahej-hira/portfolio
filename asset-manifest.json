@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.add00ea2.css",
+    "main.js": "/portfolio/static/js/main.9cd9ee2c.js",
+    "static/media/VFierce.png": "/portfolio/static/media/VFierce.57d24f89585d04f2c521.png",
+    "static/media/heroImage.jpg": "/portfolio/static/media/heroImage.90f4516df942b2d1c8ec.jpg",
+    "static/media/QuestionBox.png": "/portfolio/static/media/QuestionBox.06fec1dcaf9af5351152.png",
+    "static/media/pythonLogo.png": "/portfolio/static/media/pythonLogo.c7afdfd236a849c3824d.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/RandomQuoteGenerator.png": "/portfolio/static/media/RandomQuoteGenerator.5b4ff70e8ba24eee22bb.png",
+    "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.add00ea2.css.map": "/portfolio/static/css/main.add00ea2.css.map",
+    "main.9cd9ee2c.js.map": "/portfolio/static/js/main.9cd9ee2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.add00ea2.css",
+    "static/js/main.9cd9ee2c.js"
+  ]
+}
