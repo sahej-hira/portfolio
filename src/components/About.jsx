@@ -7,7 +7,7 @@ const About = () => {
       id="about"
       className="w-full h-full bg-gradient-to-b from-black via-black to-pink-300 text-white"
     >
-      <div className="max-w-screen-lg p-4 mx-auto flex flex-col jusitfy-center w-full h-full">
+      <div className="max-w-screen-lg p-4 mx-auto flex flex-col jusitfy-center w-full ">
         <div className="pt-8">
           <p className="text-4xl justify-center items-center font-bold inline border-b-4 border-pink-200">
             About
@@ -42,15 +42,14 @@ const About = () => {
             <span className="mr-2">
               <FaHandPointRight />
             </span>
-            I'm passionate about solving real-world problems and harnessing my
+            I'm passionate about solving problems and harnessing my
             skills working on hands-on projects.
           </li>
           <li className="flex">
             <span className="mr-2">
               <FaHandPointRight />
             </span>
-            By nature curious to implement and having a heads on the concepts
-            being discussed.
+            Having interned in various roles such as ML, cybersecurity and SDE, I like challenging my limits.
           </li>
           <li className="flex">
             <span className="mr-2">
