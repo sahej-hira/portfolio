@@ -61,14 +61,7 @@ const About = () => {
             limited to software).{" "}
           </li>
 
-          <li className="flex">
-            <span className="mr-2">
-              <FaHandPointRight />
-            </span>
-            When not coding I usually indulge myself into gaming, sleeping, and
-            not to mention, daydreaming about travelling (and as you can guess,
-            not being allowed to).
-          </li>
+          
         </ul>
 
        
